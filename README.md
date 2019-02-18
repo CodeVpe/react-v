@@ -9,7 +9,7 @@ react + react-router4.1 + redux + koa2 + koa-router + less + ES6/7 + webpack + f
 
 ### 下载
 
- 	git clone 
+ 	git clone https://github.com/CodeVpe/react-v.git
 
  	cd dianping
 
